@@ -1,10 +1,7 @@
-tap "homebrew/bundle"
-tap "homebrew/cask-versions"
-
 brew "git"
 brew "node"
 brew "python"
-cask "zulu17"
+cask "zulu"
 
 cask "visual-studio-code"
 cask "pycharm"
